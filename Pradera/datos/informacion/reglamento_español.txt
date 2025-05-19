@@ -1,0 +1,1176 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrukcja
+
+Nie musisz czytać tej 
+instrukcji, obejrzyj 
+film prezentujący 
+
+zasady.
+
+Reglamento ¿No te apetece leer las reglas? 
+Escanea el código QR para 
+
+ver un videotutorial.
+
+RBME01ES_Rulebook_AMS.indd   1RBME01ES_Rulebook_AMS.indd   1 04/03/2021   12:59:4704/03/2021   12:59:47
+
+
+
+3
+
+Del autor
+Me gustaría dar las gracias a todos los probadores del 
+juego y colegas de Rebel Studio: sin vuestra participación, 
+paciencia y amabilidad mi simple prototipo nunca se 
+habría convertido en un juego de verdad.
+
+Mi hijo Wojciech me acompañó en todas las etapas 
+del desarrollo de Pradera. Su entusiasmo, su fe inquebrantable y su voluntad para ayudar (así como 
+convencerme de ir a pasear por los bosques y prados circundantes) fueron el mejor apoyo en los momentos 
+de duda. ¡Muchas gracias por todo lo que hiciste por mí!
+
+En Pradera los jugadores se convierten en espectadores de la naturaleza, donde los animales y las plantas 
+protagonizan historias de lo más interesante. Equipados con un mapa, los jugadores explorarán una zona 
+pintoresca en busca de inspiración y capturarán impresionantes vistas. Avanzarán guiados por la pasión, 
+
+la curiosidad por el mundo, una mente inquisitiva y el deseo de descubrir los misterios de la naturaleza y conver-
+tirse en el observador más habilidoso. Ganará quien consiga más puntos observando los diferentes tipos de ani-
+males, plantas y paisajes, así como reuniendo recuerdos durante su viaje. La competición continúa en la hoguera, 
+donde los jugadores compiten por cumplir con los objetivos de sus aventuras.
+
+Rebel Sp. z o.o.
+ul. Budowlanych 64c
+
+80-298 Gdańsk, Polonia
+publishing@rebel.pl
+www.rebelgames.eu
+
+Créditos
+
+¡Hola, soy Robin el Petirrojo!
+Voy a compartir algunos secretos de la pradera 
+contigo para que te resulte más fácil entender 
+las reglas del juego y convertirte en un audaz 
+observador de la naturaleza. ¡Tal vez te pueda 
+ayudar a ganar!
+Búscame en las siguientes páginas. ¡Atrápame 
+si puedes!
+
+Diseño del juego: Klemens Kalicki
+Ilustraciones: Karolina Kijak
+Diseño gráfico: Katarzyna Fiebiger
+
+Desarrollo del juego: Przemek Wojtkowiak,
+Andrzej Olejarczyk y Wojciech Chroboczyński
+Coordinación del proyecto: Sławek Gacal
+
+Traducción al inglés y edición: Tabletop Polish
+Traducción al castellano: Cristóbal Morales Capita
+Revisión: Marina Temprano Benítez
+Maquetación: Equipo de Rebel, Łukasz S. Kowal
+
+studio@rebel.pl
+
+RBME01ES_Rulebook_AMS.indd   2RBME01ES_Rulebook_AMS.indd   2 04/03/2021   12:59:5404/03/2021   12:59:54
+
+
+
+3
+
+Contenido
+
+Contenido para el Modo solitario:
+
+1 tablero 
+principal 2 tableros de hoguera a doble cara
+
+(en función del número de jugadores)
+
+2 fichas de bloqueo 
+para los tableros 
+
+de hoguera
+
+184 cartas que incluyen:
+45 cartas 
+
+del mazo N
+45 cartas 
+
+del mazo W
+45 cartas 
+
+del mazo S
+45 cartas 
+
+del mazo E
+
+4 cartas  
+de terreno inicial 
+
+a doble cara
+
+4 portacartas 
+plegables
+
+11 fichas  
+de objetivo básico
+
+1 ficha de objetivo  
+para partidas que 
+
+utilicen el Sobre U - 
+Grandes encuentros
+
+20 fichas de ruta 
+(5 de cada color)
+
+1 indicador  
+de ronda
+
+12 fichas de bonificación 
+(3 de cada color)
+
+28 fichas de sendero 1 ficha  
+de jugador inicial
+
+5 sobres
+(con 6 cartas cada uno)
+
+1 ficha  
+de juego en 
+
+solitario
+4 indicadores 
+
+de color
+
+S
+02
+
+S
+01
+
+S
+01
+
+RBME01ES_Rulebook_AMS.indd   3RBME01ES_Rulebook_AMS.indd   3 04/03/2021   13:00:1904/03/2021   13:00:19
+
+
+
+54
+
+Preparación de la partida 
+(para 2, 3 y 4 jugadores)
+
+/ / /
+
+Coloca el tablero de juego en 
+el centro de la mesa.
+
+Coloca las fichas de sendero al 
+alcance de todos los jugadores.
+
+Coloca 3 de los 4 portacartas en los 
+huecos del tablero principal. Coloca el 
+
+portacartas restante junto al tablero.
+
+Divide las cartas en 4 mazos según la letra* 
+que aparece en su dorso.
+
+Baraja cada uno de los mazos por separado y colócalos en los portacartas tal 
+y como se muestra en la imagen. Al inicio de la partida, utilizaréis 3 mazos: 
+W, S y E. Más adelante, el mazo S será sustituido por el mazo N. 
+
+*La trasera de las cartas muestran los 4 puntos cardinales en inglés (N: norte, 
+S: sur, E: este, W: oeste).
+
+Busca el tablero de hoguera que muestre 
+el símbolo que coincida con el número de 
+jugadores en la partida y colócalo con esa 
+cara hacia arriba junto al tablero principal. 
+Devuelve a la caja del juego el tablero de 
+hoguera restante.
+
+Llena todos los huecos del tablero con 
+cartas bocarriba de los mazos corres-
+pondientes. La columna izquierda 
+tendrá 4 cartas W, las dos columnas 
+siguientes tendrán 4 cartas S cada una, 
+y la columna final tendrá 4 cartas E. 
+
+Para ver las reglas del Modo solitario,  
+consulta la pág. 14.
+
+1
+
+3
+
+2
+
+4
+
+5
+
+RBME01ES_Rulebook_AMS.indd   4RBME01ES_Rulebook_AMS.indd   4 04/03/2021   13:00:2804/03/2021   13:00:28
+
+
+
+54
+
+9
+
+El último jugador al que le 
+haya picado una abeja recibe 
+la ficha de jugador inicial y 
+empieza la partida.10
+
+fichas de 
+bloqueo rondasfichas de 
+
+objetivo
+fichas  
+de ruta
+
+Cada jugador elige un color y reúne los siguientes 
+componentes:
+
+Baraja las fichas de objetivo y colócalas al 
+azar de una en una en las casillas cuadradas 
+del tablero de hoguera. Devuelve a la caja del 
+juego las fichas de objetivo restantes 
+(en partidas de 4 jugadores utili-
+zaréis todas las fichas de obje-
+tivo básico).
+
+7
+
+8
+En partidas de 2 jugadores, bloquea 2 de los 
+
+espacios del tablero de hoguera con fichas de 
+bloqueo. En partidas de 3 jugadores, bloquea 
+solo 1 espacio. Estos espacios permanecerán 
+
+bloqueados durante el resto de la partida.
+
+5 fichas de ruta del color elegido (en partidas de 
+4 jugadores, devuelve a la caja del juego la ficha 
+con el símbolo “?”, no la necesitaréis),
+
+3 fichas de bonificación del color elegido,
+
+1 ficha de sendero que muestre el símbolo  
+de sendero
+
+y 1 carta de terreno inicial a doble cara.
+
+1 jugador 1, 2, 3, 4, ? 3 2 6
+
+2 jugadores 1, 2, 3, 4, ? 5 2 6
+
+3 jugadores 1, 2, 3, 4, ? 8 1 6
+
+4 jugadores 1, 2, 3, 4 11 0 8
+
+Componentes y número de rondas 
+según el número de jugadores
+
+6
+
+Coloca el indicador de ronda 
+en la primera roca del marca-
+dor de rondas.
+
+RBME01ES_Rulebook_AMS.indd   5RBME01ES_Rulebook_AMS.indd   5 04/03/2021   13:00:3704/03/2021   13:00:37
+
+
+
+76
+
+Cada jugador comienza la partida con 5 cartas 
+en la mano que obtiene de la siguiente manera: 
+comenzando por el jugador a la derecha del juga-
+dor inicial y en sentido inverso a las agujas 
+del reloj, cada jugador elige una fila en el 
+tablero principal y añade a su mano las 4 car-
+tas en esa fila. A continuación, roba 1 carta 
+del hasta ahora no utilizado mazo N.
+
+Después de que un jugador haya elegido sus 
+cartas, rellena los huecos vacíos del tablero 
+con las cartas de los mazos correspondientes. 
+Repite este paso hasta que todos los jugadores tengan sus 5 cartas 
+iniciales.
+
+Antes de la primera ronda, pero después de tomar las filas de cartas, 
+cada jugador coloca su carta de terreno inicial en su zona de prado 
+mostrando la cara que prefiera. Esta será su primera carta.
+
+Ejemplo 1. Raúl elige la segunda fila y coge las 4 cartas del tablero y  
+1 carta del mazo N que se encuentra junto al tablero.
+
+¡Importante! En vuestra primera partida quizás sea más fácil repar-
+tir las 5 cartas iniciales al azar en lugar de elegirlas de las filas. Para 
+hacerlo así, reparte a cada jugador: 1 carta W, 2 cartas S, 1 carta E 
+y 1 carta N. 
+
+Zona de prado
+Aquí juegas las cartas de terreno 
+
+y de observación orientadas 
+verticalmente (consultar pág. 8).
+
+Carta de terreno inicial 
+a doble cara
+
+Empiezas la partida con esta carta 
+mostrando la cara que elijas.
+
+Fichas de bonificación 
+y ruta
+
+Coloca estos componentes 
+junto a tu zona de prado.
+
+Cada jugador empieza 
+con 1 ficha de sendero.
+
+Zona de alrededores
+
+Aquí juegas las cartas de paisaje y 
+descubrimiento orientadas horizontalmente 
+(consultar pág. 10 y 11).
+
+  Área del jugador
+
++
+
+Preparación de los jugadores
+
+¡Ya estáis listos para empezar la partida!
+Mano del jugador
+
+Es buena idea elegir una fila que tenga cartas 
+que estén relacionadas. Hablaremos de esto más 
+adelante en este reglamento.
+
+RBME01ES_Rulebook_AMS.indd   6RBME01ES_Rulebook_AMS.indd   6 04/03/2021   13:00:4704/03/2021   13:00:47
+
+
+
+76
+
+La duración de las partidas de 2 y 3 jugadores es de 6 rondas y la de 
+las de 4 jugadores es de 8 rondas (coinciden con el número de rocas 
+que aparecen en los tableros de hoguera). Los jugadores se turnan 
+en sentido de las agujas del reloj, empezando por el jugador inicial.
+
+ Turno del jugador
+Durante tu turno debes realizar una acción encajando una de tus 
+fichas de ruta en un espacio del tablero principal o del tablero de 
+hoguera. Solo puedes encajar la ficha en un espacio que esté libre. La 
+ficha permanecerá en ese espacio hasta el final de la ronda. Depen-
+diendo de dónde hayas ubicado la ficha de ruta, podrás realizar una 
+de estas dos acciones: 
+
+ tablero principal — robar cartas y (opcionalmente) jugarlas en la 
+zona de prado o zona de alrededores, o bien
+
+ tablero de hoguera — realizar una acción especial y (opcional-
+mente) cumplir un objetivo.
+
+ Final de la ronda
+La ronda dura hasta que todos los jugadores hayan agotado todas 
+sus fichas de ruta. A continuación, los jugadores recogen sus fichas 
+de ruta y pasan la ficha de jugador inicial al jugador sentado a la 
+izquierda del actual jugador inicial. El indicador de ronda avanza a la 
+siguiente casilla del marcador de rondas.
+
+Parte superior
+Puedes realizar la acción tras 
+
+encajar la ficha en un espacio del 
+tablero principal.
+
+Parte inferior
+Puedes realizar la acción tras 
+
+encajar la ficha en un espacio del 
+tablero de hoguera.
+
+ Robar y jugar cartas
+Si encajas tu ficha de ruta en uno de los espacios del tablero princi-
+pal, realizarás la acción que muestra en su parte superior. Después 
+de colocar la ficha de ruta:
+
+ En la dirección en la que señala la ficha, y partiendo de ella, cuenta 
+tantos espacios como el número que muestra. El símbolo “?” 
+representa cualquier número del 1 al 4 a tu elección. Debes robar 
+la carta indicada de esta manera por la ficha. Rellena inmediata-
+mente el hueco creado con una carta del mazo correspondiente.
+
+ A continuación, puedes jugar 1 carta de tu mano en tu zona de 
+prado o zona de alrededores (puedes jugar la carta que acabas de 
+conseguir o cualquier otra que ya estuviera en tu mano).
+
+¡Importante! En el extraño caso de que el hueco no pueda relle-
+narse con una nueva carta porque el mazo se haya agotado, déjalo 
+vacío. Si colocas una ficha de ruta de tal manera que te indique robar 
+la carta donde ahora hay un hueco vacío de este tipo, no robarás 
+carta pero podrás jugar una carta igualmente.
+
+Ejemplo 2. Beatriz, que juega con el color amarillo, encaja su ficha de ruta 
+en un espacio libre. El número en la ficha indica la posición de la carta 
+a robar. Beatriz usa la ficha de ruta con el 3, y por lo tanto roba la tercera 
+carta contando desde la ficha colocada. A continuación, después de relle-
+nar el hueco con una nueva carta S, Beatriz puede jugar 1 carta de su mano.
+
+Zona de alrededores
+
+Aquí juegas las cartas de paisaje y 
+descubrimiento orientadas horizontalmente 
+(consultar pág. 10 y 11).
+
+Acciones del tablero principalEl curso de la partida
+
+ Fin de la partida
+La partida termina al finalizar la última ronda. El ganador será el 
+jugador que haya conseguido más puntos jugando cartas y cum-
+pliendo objetivos.
+
+RBME01ES_Rulebook_AMS.indd   7RBME01ES_Rulebook_AMS.indd   7 04/03/2021   13:00:5304/03/2021   13:00:53
+
+
+
+98
+
+Las cartas de terreno y observación se juegan orientadas vertical-
+mente en la zona de prado. Las cartas de paisaje y descubrimiento se 
+juegan orientadas horizontalmente en la zona de alrededores.
+
+¡Importante! No puedes cambiar de lugar las cartas jugadas (de 
+ningún tipo); deben permanecer donde se jugaron hasta el final de 
+la partida.
+
+ Cartas de terreno
+Las cartas de terreno muestran ecosistemas que están relaciona-
+dos con los hábitats de diversos tipos de animales, plantas y hongos. 
+Tienen un símbolo de terreno, que será útil para jugar cartas en el 
+futuro.
+
+Al jugar una carta de terreno, colócala a la izquierda o a la derecha 
+de otra carta de terreno ya en juego.
+
+Puedes tener hasta 10 cartas de terreno en tu zona de prado.
+
+El símbolo mostrado en la parte inferior de las cartas de terreno 
+debe estar siempre visible, no se puede cubrir. Las cartas de terreno 
+crean el nivel más bajo de la pradera, y por lo tanto, no pueden 
+jugarse encima de otras cartas.
+
+Reglas para jugar las cartas
+
+ Cartas de observación
+Las cartas de observación muestran animales, plantas y hongos, así 
+como creaciones hechas por humanos, como edificios y objetos rela-
+cionados. Representan las anotaciones que has tomado durante la 
+expedición.
+
+Puedes jugar una carta de observación sobre una carta de terreno 
+o bien sobre otra carta de observación siempre que se cumplan los 
+requisitos necesarios para jugarla. Se considera que cumples con los 
+requisitos si todos los símbolos que requiere están a la vista en tu 
+zona de prado.
+
+Tus columnas de cartas deben comenzar en su base con una carta de 
+terreno, pero cada columna puede estar formada por tantas cartas 
+de observación parcialmente apiladas como quieras.
+
+Símbolo 
+de la carta
+
+Símbolo  
+de terreno
+
+Hojarasca
+
+Hierba
+
+Arena
+
+Rocas
+
+Humedales
+
+Tipos de símbolo 
+de terreno:
+
+Puntos de victoria
+
+Símbolos de los 
+requisitos
+
+Símbolo de la carta
+
+Ejemplo 3. Beatriz ha decidido jugar una carta de terreno. Su zona 
+de prado ya tiene otras 2 cartas de terreno. Las flechas indican dónde 
+puede jugar la nueva carta de terreno.
+
+Recuerda: cuantos más símbolos diferentes 
+tengan las cartas de terreno de tu zona de 
+prado, más fácil te resultará poder jugar 
+las siguientes cartas.
+
+RBME01ES_Rulebook_AMS.indd   8RBME01ES_Rulebook_AMS.indd   8 04/03/2021   13:00:5704/03/2021   13:00:57
+
+
+
+98
+
+Ejemplo 4. José Manuel quiere 
+jugar su carta de majuelo. Su 
+zona de prado cuenta con 2 car-
+tas con el símbolo requerido 
+. Puede elegir cualquiera de ellas 
+para colocar la carta encima. Al 
+jugar la carta, la coloca tapando 
+el símbolo de la carta de su zona 
+de prado pero deja a la vista su 
+valor en puntos de victoria.
+
+Ejemplo 5. Raúl juega su carta 
+de abubilla en su zona de prado. 
+Esta carta requiere los símbo-
+los  y . Raúl puede elegir 
+cuál de los símbolos tapar con la 
+carta. No podrá volver a utilizar 
+el símbolo tapado, pero sí podrá 
+utilizar en un futuro el símbolo 
+que no ha tapado de la otra carta 
+(siempre que siga a la vista). 
+Además, Raúl obtiene un nuevo 
+símbolo  de su abubilla. 
+
+Ejemplo 6. José Manuel juega 
+la carta de la mariposa pavo 
+real. Esta carta requiere los 
+símbolos  y . Por lo tanto, 
+José Manuel puede jugar la 
+carta sobre la carta de terreno 
+que tiene el símbolo  o bien 
+sobre la columna que tiene en 
+su base la carta de terreno con 
+el símbolo .
+
+Jugar cartas de observación
+Al jugar una carta de observación sobre una carta de terreno, 
+debes recordar no tapar nunca el símbolo de terreno. Cuando 
+juegues nuevas cartas, asegúrate de colocarlas de tal forma que 
+el valor de puntos de victoria de las cartas jugadas con anterio-
+ridad quede siempre a la vista.
+
+Si uno de los requisitos de la carta de observación es un símbolo de 
+terreno, puedes colocar la carta directamente encima de cualquier 
+carta de terreno que esté libre (debes disponer a la vista del resto de 
+los símbolos de requisitos de la carta), o bien puedes colocarla sobre 
+una carta de observación (independientemente de sus símbolos), 
+pero la columna de cartas que encabece esa carta tiene que tener 
+en su base una carta de terreno con el símbolo de terreno requerido 
+(consultar Ejemplo 6).
+
+Al jugar una carta de observación pueden darse las siguientes 
+situaciones:
+
+ La carta tiene 1 requisito. Juega la carta sobre una carta que 
+tenga el símbolo requerido (consultar Ejemplo 4). Si varias car-
+tas cumplen con el requisito, elige una de ellas y coloca la carta 
+encima.
+
+ La carta tiene 2 o más requisitos. Juega la carta sobre una carta 
+que tenga cualquiera de los símbolos requeridos (consultar Ejemplo 
+5). Todos los símbolos requeridos por la carta deben estar a la vista 
+en tu zona de prado y solo entonces podrás tapar uno de ellos.
+
+Opción de requisitos
+Cuando los símbolos de requisito están separados por 
+una barra, significa que solo necesitas 1 de los 2 símbo-
+los mostrados para cumplir con el requisito. Tú decides 
+cuál utilizar. A efectos del juego, esta opción de requisi-
+tos solo cuenta como un símbolo (no dos).
+
+RBME01ES_Rulebook_AMS.indd   9RBME01ES_Rulebook_AMS.indd   9 04/03/2021   13:01:0104/03/2021   13:01:01
+
+
+
+1110
+
+ Cartas de paisaje
+Las cartas de paisaje tienen ilustraciones de los paisajes visitados 
+por los jugadores. Estas cartas aportan el símbolo .
+
+Las cartas de paisaje se juegan en la zona de alrededores (consultar 
+pág. 6). Todas las cartas de paisaje requieren una ficha de sendero.
+
+Al jugar una carta de paisaje pueden darse las siguientes situaciones:
+
+ La carta solo requiere una ficha de sendero. Juega la carta y 
+coloca debajo de ella 1 de tus fichas de sendero no utilizadas. 
+Luego colócala con el símbolo de sendero hacia abajo para indicar 
+que está agotada.
+
+Ejemplo 9. Beatriz juega una carta de paisaje en su zona de alrede-
+dores. Para hacerlo coge 1 de sus fichas de sendero no utilizadas y la 
+coloca debajo de la carta. A continuación, coloca la ficha bocabajo ocul-
+tando el símbolo de sendero.
+
+Ejemplo 7. José Manuel puede colocar la carta de leña cortada  
+en una de las tres opciones marcadas.
+
+Puntos de 
+victoria
+
+Símbolos de los requisitos
+
+Símbolo  
+de la carta
+
+Ejemplo 8. Raúl quiere 
+jugar la carta de la ardi-
+lla voladora siberiana. En 
+su zona de prado solo dis-
+pone de 1 de los símbolos 
+
+ requeridos. Raúl juega 
+la carta sobre la carta con 
+el símbolo  e ignora el 
+símbolo que falta descar-
+tando 2 cartas en su lugar.
+
+Sustituir un símbolo que falta
+Si te falta un símbolo en tu área de juego para cumplir con los 
+requisitos de una carta, puedes descartar 2 cartas a tu elección 
+de tu mano para ignorar 1 de los requisitos de la carta que quie-
+ras jugar (puedes hacerlo varias veces). No puedes ignorar todos 
+los símbolos de esta manera, sino que siempre debes disponer de 
+al menos 1 de los símbolos requeridos. Devuelve los descartes en 
+cualquier orden a la parte inferior de los mazos correspondientes 
+(consulta el siguiente ejemplo:).
+
+Columnas adyacentes
+En algunas de las cartas, los símbolos de requisito 
+presentan flechas. En tal caso, la carta debe jugarse 
+en una columna inmediatamente adyacente a una 
+columna que muestre el requisito indicado.
+Si una carta tiene una mezcla de símbolos de requi-
+sito con flechas y sin flechas, debes disponer de 
+ambos símbolos en tu zona de juego, pero puedes 
+elegir dónde colocar la carta (consulta el siguiente 
+ejemplo:).
+
+Recuerda que cuando juegas una carta, pierdes el 
+símbolo de la carta que tapas en tu zona de prado. 
+Sin embargo, el símbolo de terreno de las cartas 
+de terreno siempre permanece visible y puede uti-
+lizarse múltiples veces. Algunas cartas proporcio-
+nan 2 símbolos; si las tapas, perderás ambos.
+
+RBME01ES_Rulebook_AMS.indd   10RBME01ES_Rulebook_AMS.indd   10 04/03/2021   13:01:1204/03/2021   13:01:12
+
+
+
+1110
+
+Ejemplo 11. Colocación correcta de las cartas en el área de un jugador.
+
+  La carta requiere una ficha de sendero y otros símbolos. Debes 
+disponer de todos los símbolos requeridos en tu zona de prado y 
+además de una ficha de sendero. Juega la carta y coloca debajo de 
+ella 1 de tus fichas de sendero no utilizadas. Luego colócala con el 
+símbolo de sendero hacia abajo para indicar que está agotada. No 
+perderás los símbolos requeridos, sino que podrás usarlos para 
+cumplir con los requisitos de otras cartas.
+
+Ejemplo 10. José Manuel encontró una herradura en su expedición. 
+Esta carta requiere los símbolos  y . En su zona de prado, José 
+Manuel tiene un símbolo  a la vista, por lo que puede jugar esta 
+carta sobre una carta de paisaje. 
+
+Al igual que con otras cartas, puedes descartar 2 cartas a tu elección 
+de tu mano para ignorar 1 símbolo de requisito de la carta jugada 
+(puedes hacerlo varias veces).
+
+No puedes ignorar el requisito  de esta manera. Devuelve 
+los descartes en cualquier orden a la parte inferior de los mazos 
+correspondientes.
+
+Puntos de 
+victoria
+
+Símbolos de los requisitos
+
+Símbolo  
+de la carta
+
+Si te falta un símbolo en tu área de juego para cumplir con los 
+requisitos de una carta, puedes descartar 2 cartas a tu elección de 
+tu mano para ignorar 1 de los requisitos de la carta que quieras 
+jugar (puedes hacerlo varias veces).
+
+No puedes ignorar el símbolo  de esta manera. Devuelve los 
+descartes en cualquier orden a la parte inferior de los mazos 
+correspondientes.
+
+ Cartas de descubrimiento
+Las cartas de descubrimiento son objetos que se encuentran 
+durante la excursión. Son souvenirs y recuerdos de tus viajes. 
+Están marcados con el símbolo .
+
+Coloca las cartas de descubrimiento sobre cartas de paisaje juga-
+das anteriormente cubriendo su símbolo.
+
+Al jugar cartas de descubrimiento pueden darse las siguientes 
+situaciones:
+
+ La carta solo requiere el símbolo . Juega la carta colocán-
+dola sobre una de tus cartas de paisaje sin usar.
+
+ La carta requiere el símbolo  y otros símbolos. Debes 
+disponer de todos los símbolos requeridos en tu zona de prado. 
+Juega la carta colocándola sobre una de tus cartas de paisaje 
+sin usar. No perderás los símbolos requeridos, sino que podrás 
+usarlos para cumplir con los requisitos de otras cartas.
+
+RBME01ES_Rulebook_AMS.indd   11RBME01ES_Rulebook_AMS.indd   11 04/03/2021   13:01:1904/03/2021   13:01:19
+
+
+
+1312
+
+ Cómo realizar acciones especiales y cumplir con 
+los objetivos opcionales
+
+Si encajas tu ficha de ruta en uno de los espacios del tablero de 
+hoguera, realizarás la acción que muestra en su parte inferior. Des-
+pués de encajar la ficha de ruta, realizarás la acción especial indi-
+cada y tendrás la oportunidad de cumplir con un objetivo (consul-
+tar la página siguiente).
+
+Tipos de acciones especiales:
+
+Roba cualquier carta bocarriba del tablero principal y 
+rellena el hueco con la carta superior del mazo corres-
+pondiente. No puedes jugar esta carta durante este turno. 
+
+Roba 2 fichas de sendero y colócalas en tu zona de alre-
+dedores con el símbolo de sendero hacia arriba. No 
+puedes jugar una carta durante este turno.
+
+Mira las 3 cartas superiores de uno de los mazos del 
+tablero (no puedes elegir el mazo que está sin usar). 
+Añade 1 de estas cartas a tu mano y coloca las 2 restan-
+tes en la parte inferior del mazo en cualquier orden. No 
+puedes jugar una carta durante este turno.
+
+Juega hasta 2 cartas de tu mano en tu zona de prado 
+y/o zona de alrededores.
+
+Acciones del tablero de hoguera
+
+Espacios en 
+el tablero de 
+hoguera
+
+Objetivos cumplidos por los 
+jugadores (marcados con fichas)
+
+Banco
+
+Ficha de ruta “?”
+Esta ficha de ruta se utiliza en partidas de 2 y 3 
+jugadores. La colocación de esta ficha en un espacio 
+del tablero principal te permite tomar cualquier 
+carta de la fila o columna indicada (tú decides el 
+valor de “?”). La colocación de esta ficha en un 
+espacio del tablero de hoguera te permite realizar 
+cualquier acción especial.
+
+ Colocar una ficha de ruta en un banco
+Puedes jugar la ficha de ruta sobre un banco libre del tablero de 
+hoguera (marcado con el símbolo ). Esto te permite jugar 1 carta 
+en tu zona de prado o zona de alrededores.
+
+¡Importante! Si eliges una de las 3 primeras 
+acciones especiales, ¡no podrás jugar ninguna 
+carta! Es una regla que suele olvidarse.
+
+Es mucho mejor robar y jugar una carta que sim-
+plemente jugar una carta. Coloca la ficha de ruta 
+en el banco solo si realmente necesitas jugar una 
+carta y la situación actual no te permite hacerlo.
+
+RBME01ES_Rulebook_AMS.indd   12RBME01ES_Rulebook_AMS.indd   12 04/03/2021   13:01:2604/03/2021   13:01:26
+
+
+
+1312
+
+ Objetivos
+Dos fichas de objetivo que están contiguas en el tablero de hoguera 
+forman una pareja. Si en tu zona de prado tienes a la vista los dos 
+símbolos de una pareja, puedes reclamar la casilla que hay entre esa 
+pareja de fichas colocando en ella una de tus fichas de bonificación. 
+Solo puedes reclamar la casilla después de haber encajado una ficha 
+de ruta en el espacio del tablero de hoguera. Tú decides si coger la 
+ficha de bonificación antes, durante o después de realizar la acción 
+especial. Coloca tus fichas de bonificación en el tablero empezando 
+por las de menor valor (en el orden 2, 3, 4). Solo puede colocarse 1 
+ficha de bonificación entre cada pareja de fichas de objetivo. Aunque 
+puedas cumplir con varios objetivos a la vez, porque tienes símbo-
+los a la vista de varias parejas, durante tu turno solo puedes colocar 
+1 ficha de bonificación en el tablero de hoguera.
+
+Cuando todos los jugadores hayan colocado todas sus fichas de ruta, 
+la ronda termina. A continuación, los jugadores recogen todas sus 
+fichas de ruta.
+
+El jugador que inició la ronda pasa la ficha de jugador inicial al juga-
+dor a su izquierda. En la siguiente ronda, esa persona será el juga-
+dor inicial.
+
+Avanza el indicador de ronda a la siguiente casilla del marcador de 
+rondas.
+
+ A mitad de camino
+Cuando el indicador de ronda pase el 
+reloj de arena que hay en el tablero de 
+hoguera, debes:
+
+ Descartar todas las cartas del tablero principal y colocarlas al azar 
+en la parte inferior de sus respectivos mazos.
+
+ Sustituir el portacartas del mazo S por el portacartas del mazo N. 
+
+  Rellenar el tablero con nuevas cartas de los mazos correspondientes.
+
+Continúa la partida siguiendo las reglas normales.
+
+Fin de la ronda
+
+Ejemplo 12. Raúl encaja una ficha de ruta en el espacio del tablero 
+de hoguera y realiza una acción especial. En su zona de prado tiene 
+los símbolos  y . En el tablero de hoguera hay una pareja de 
+fichas de objetivo con esos símbolos y la casilla situada entre ellas 
+está libre. Raúl decide por lo tanto colocar su ficha de bonificación 
+de valor 2 entre la pareja de fichas. Fin de la partida y puntuación
+
+La partida termina al final de la ronda final (última casilla del mar-
+cador de rondas). Los jugadores cuentan los puntos de victoria de 
+las cartas que jugaron en su zona de prado y zona de alrededo-
+res, así como sus fichas de bonificación que haya en el tablero de 
+hoguera. Cuando cuentes los puntos de victoria de tus cartas juga-
+das, recuerda contar los puntos de todas las cartas que haya tu área 
+de juego. Las cartas que quedan en tu mano no otorgan puntos de 
+victoria. Cada ficha de bonificación jugada en el tablero de hoguera 
+vale exactamente la cantidad de puntos de victoria que muestra. Las 
+fichas de bonificación no utilizadas no otorgan puntos de victoria.
+
+Gana el jugador con más puntos de victoria. En caso de empate, 
+ganará el jugador que haya jugado más cartas de descubrimiento. Si 
+el empate persiste, los jugadores comparten la victoria.
+
+Al realizar la acción especial con la ficha de ruta 
+con el número 4 o el símbolo “?” (si “?” copia la 
+acción de la ficha con el número 4), puedes colo-
+car la ficha de bonificación antes o después de 
+jugar tu primera o segunda carta.
+
+RBME01ES_Rulebook_AMS.indd   13RBME01ES_Rulebook_AMS.indd   13 04/03/2021   13:01:3304/03/2021   13:01:33
+
+
+
+1514
+
+En esta variante, el juego se juega exactamente como una partida de 
+2 jugadores, pero tu único adversario es un jugador ficticio apodado 
+el Trotamundos.
+
+Modo solitarioSobres
+
+Hay 5 sobres en la caja del juego con cartas temáticas. Debido 
+a las reglas avanzadas de esas cartas, te recomendamos que 
+no las utilices en las primeras partidas. Consideramos que es 
+mejor que abras los sobres después de cumplir con los requi-
+sitos descritos a continuación, pero no los tomes demasiado 
+en serio. ¡Se trata de divertirse!
+
+Los conjuntos temáticos de cartas que hay en los sobres son 
+expansiones independientes. Puedes mezclarlas libremente 
+con las cartas base barajándolas en sus respectivos mazos. 
+Cada carta está marcada en la parte inferior con una letra que 
+corresponde con su sobre para facilitar la separación de las 
+cartas durante futuras partidas.
+
+ SOBRE T: Parques nacionales. Abrir después de visitar un 
+parque nacional o reserva natural. Las cartas de este sobre 
+solo tienen 2 símbolos de terreno. Las cartas de esta expan-
+sión no introducen ninguna mecánica nueva.
+
+ SOBRE U: Grandes encuentros. Abrir al final de cualquier 
+partida en la que haya al menos 5 símbolos  visibles 
+entre todas las áreas de jugadores. Este juego introduce el 
+símbolo . No puedes colocar ninguna carta sobre una 
+carta que tenga este símbolo. No puedes hacerlo ni siquiera 
+si la carta de terreno de esa columna tiene un símbolo de 
+terreno requerido ni si la columna cumple con los requisi-
+tos de zonas adyacentes. El tablero de cartón tro-
+quelado incluye una ficha roja con el símbolo . 
+Si utilizas cartas de este sobre en tu partida, añade 
+esta ficha a las fichas de objetivo básico.
+
+ SOBRE W: Difícil de avistar. Abrir cuando veas un ani-
+mal salvaje durante una visita al bosque. Las cartas de esta 
+expansión no introducen ninguna mecánica nueva.
+
+ SOBRE X: Primeros indicios de la primavera. Abrir el pri-
+mer día de la primavera. Las cartas de esta expansión no 
+introducen ninguna mecánica nueva.
+
+ SOBRE Y: Navidad. Abrir el 24 de diciembre. Las cartas de 
+esta expansión no introducen ninguna mecánica nueva.
+
+ Cambios en la preparación
+Coloca el tablero de hoguera debajo del tablero principal con el sím-
+bolo  hacia arriba. Coloca el indicador de ronda en la primera roca 
+del marcador de rondas.
+
+Elige al azar 3 fichas de objetivo bocabajo. Coloca de una en una las 
+fichas bocarriba en los huecos cuadrados que hay alrededor de la 
+hoguera del tablero de hoguera.
+
+Coloca 2 fichas de bloqueo en los espacios del tablero de hoguera.
+
+Elige un color y toma todos los componentes de ese color como de 
+costumbre.
+
+Coloca la ficha de juego en solitario junto al tablero principal.
+
+Baraja las fichas de ruta (incluyendo las fichas ?) de todos los demás 
+colores y forma una pila bocabajo. Colócalas junto a la ficha de juego 
+en solitario.
+
+Coge 1 indicador de color de cada uno de los otros colores y colócalos 
+bocarriba al azar tal y como se muestra en la imagen.
+
+Montón de las fichas 
+de ruta restantes
+
+Ficha de juego 
+en solitario
+
+Indicadores de color
+
+Color del 
+jugador
+
+Fichas del jugador
+
+RBME01ES_Rulebook_AMS.indd   14RBME01ES_Rulebook_AMS.indd   14 04/03/2021   13:01:3904/03/2021   13:01:39
+
+
+
+1514
+
+El Trotamundos no tiene una zona de prado ni una zona de alrede-
+dores propia, y las cartas que obtiene durante la partida se colocan 
+en un mazo cerca de la ficha de juego en solitario.
+
+Coge tus cartas iniciales y rellena los huecos en el tablero con cartas 
+de los mazos correspondientes. A continuación, coge todas las cartas 
+de la primera fila que hay bajo los portacartas y 1 carta del mazo N. 
+Colócalas en el mazo del Trotamundos. Vuelve a llenar el tablero.
+
+ Cambios en el juego
+En el modo en solitario, el Trotamundos siempre es el jugador ini-
+cial. Los turnos se alternan hasta que se agotan las fichas de ruta.
+
+Durante el turno del Trotamundos, dale la vuelta a la ficha de ruta 
+superior de su montón.
+
+ Si revelas una ficha ?, colócala en cualquier espacio libre del 
+tablero de hoguera. Si todos los espacios están ocupados, descarta 
+la ficha. En ambos casos, no realices ninguna otra acción.
+
+ Si revelas cualquier otra ficha, mira su color. Colócala en un espa-
+cio libre del tablero principal de acuerdo con la ficha de juego en 
+solitario y los indicadores de color. Si el espacio indicado por la 
+ficha de juego en solitario está ocupado, utiliza el más cercano en 
+sentido horario que esté libre. A continuación, coge la carta indi-
+cada por la ficha de ruta, colócala en el mazo del Trotamundos y 
+rellena el hueco con una carta del mazo correspondiente.
+
+El Trotamundos no utiliza fichas de bonificación.
+
+La ronda termina cuando coloques tu última ficha de ruta. Recoge 
+todas tus fichas de ruta y, a continuación, recoge todas las demás 
+fichas (las que ha jugado el Trotamundos esta ronda y las no utiliza-
+das), barájalas y crea un nuevo montón bocabajo. Avanza el indica-
+dor de ronda a la siguiente casilla del marcador de rondas.
+
+Cuando el indicador de ronda pase el reloj de arena, haz lo siguiente:
+
+ Descarta todas las cartas del tablero principal y colócalas al azar 
+en la parte inferior de sus respectivos mazos.
+
+  Sustituye el portacartas del mazo S por el portacartas del 
+mazo N. 
+
+  Rellena el tablero con nuevas cartas de los mazos 
+correspondientes.
+
+ Fin de la partida y puntuación
+La partida termina al final de la sexta ronda. ¡Es hora de contar los 
+puntos!
+
+Cuenta todos los puntos del mazo de cartas del Trotamundos.
+
+A continuación, cuenta tus puntos como de costumbre. Si tu puntua-
+ción es menor, es signo de que no has observado suficientes cosas 
+interesantes en esta expedición. Si tu puntuación es superior o igual 
+a la puntuación del Trotamundos, consulta la tabla siguiente para 
+ver qué tal te ha ido.
+
+Ejemplo 13. Beatriz revela una ficha de ruta del montón del Trotamun-
+dos. La ficha de ruta es de color rojo y muestra el número 3. Beatriz 
+coloca la ficha de ruta en el lado izquierdo del tablero principal en el 
+espacio marcado con la ficha de juego en solitario con el número 3. La 
+jugadora toma la carta indicada por la ficha de ruta y la coloca en el 
+mazo del Trotamundos.
+
+Tabla de puntuación del Modo solitario
+
+<39 Estabas distraído. Lograste inmortalizar solo unas pocas 
+especies interesantes.
+
+40–49 Ha sido una excursión muy fructífera, aunque solo has 
+observado unas pocas especies fascinantes.
+
+50–59 ¡Menudas especies! ¡Increíble! Los recuerdos de esta 
+excursión te acompañarán durante mucho tiempo.
+
+60+ Tu colección merece ser expuesta.
+
+RBME01ES_Rulebook_AMS.indd   15RBME01ES_Rulebook_AMS.indd   15 04/03/2021   13:01:4304/03/2021   13:01:43
+
+
+
+o bien en el tablero principal
+
+Roba la carta 
+que indique 
+la ficha.
+
+a continuación puedes jugar una carta
+
+Coge 1 de tus fichas de ruta y colócala:
+
+o bien en el tablero  
+de hoguera
+
+y realiza una acción especial:
+
+Roba 1 carta  
+del tablero.
+
+Roba 2 fichas de sendero.
+
+Mira las 3 cartas 
+superiores de cualquier 
+mazo y quédate con 
+1 de ellas.
+
+Juega 2 cartas.
+
+Juega una carta
+
+Si tienes los símbolos 
+requeridos.
+
+Coloca una carta 
+de observación 
+encima de una 
+carta con el 
+símbolo requerido.
+
+D31
+
+Coloca una 
+carta de 
+terreno junto 
+a otras cartas 
+de este tipo.
+
+Coloca las 
+cartas de 
+paisaje y 
+descubrimiento 
+encima de tu 
+zona de prado.
+
+La cantidad de símbolos que hay en cada mazo 1–2, 3–4, 5+
+
+Ejemplo de un turno
+
+E E E E E E E
+
+W WW W W W WW W
+
+S S S S S S S S
+
+N N N N N N N N N N N N
+
+E
+
+S S
+
+© 2021 Rebel Sp. z o.o.  Primera edición. Todos los derechos reservados.
+
+RBME01ES_Rulebook_AMS.indd   16RBME01ES_Rulebook_AMS.indd   16 04/03/2021   13:01:5504/03/2021   13:01:55
+
+

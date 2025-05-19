@@ -1,0 +1,568 @@
+Cooperative?: Has anyone posted coop rules somewhere? I was trying to think of how to play this with my son against Rover. However, Rover is already too easy. We played solo together and had fun, but we each want our own tableau.
+
+Improving Solo Variants with a Win Condition (Inspired by Targi): Hello everyone!!!
+
+I’d like to share an idea to enhance the solo mode of the game by introducing a win condition, inspired by the game Targi.
+
+Why Try This:
+* Adds a strategic direction from the start
+* Introduces an extra tactical layer to each playthrough
+* Keeps solo mode fresh and challenging
+
+Set Up:
+You will need 1 D6 die. Roll it once before the game starts to determine the win condition:
+* Normal mode: roll 3 conditions (I, II, III)
+* Hard mode: roll 4 conditions (I, II, III-1, III-2)
+
+Before scoring at the end of the game, the player must meet a specific icon requirement (win condition).
+Ignore Starting card!
+* If the condition is fulfilled, proceed to scoring and compare points with Rover as usual.
+* If not, the game is lost.
+
+This variant can be used with Rover from the rulebook, or "Unofficial Campfire Rover Variant " (Recommended)
+
+P/s: I'm using a houserule where at the end of Round 1 and Round 5, I roll a d4 twice, and discard all cards in the designated row and column (replacing 7 cards).
+Summary:
+R1: discard 7 - R2 - R3: discard 16 - R4 - R5: discard 7 - R6 - End.
+
+I’ve playtested this variant a few times and it works well, but I would really appreciate your help with further playtesting and feedback (too easy or hard?). Every suggestion is welcome!
+
+Thanks for reading — and happy
+
+https://docs.google.com/document/d/1wc_Blc7UGHZNGIbQrymegqTY...
+Gamelog:
+Game 1: Use Campfire variant, win condition 6-4-6
+- Result: Complete the Win condiction. Lose 38-60
+* Note:
+
+I think this game is somewhat challenging, as the win condition requires a whopping 20 different icons to complete. I managed to finish it in the final round, leaving me with very little time to earn additional Victory Points.
+
+Pros:
+
+This game is highly thematic, with a scenario-like feel to it. The landscape from start to finish is perfectly fitting and thematic, eliminating the feeling of playing a Splendor-like game.
+
+Cons:
+
+The win condition is a bit too tight, and I think it needs to be adjusted to reduce the total number of required icons (~10-15). If 'win condition I' = 6, then I'll roll 'win condition III-2', result 1 = reroll (III-1 is blocked).
+
+Meadow scenarios? Campaign: I’m looking for a meadow campaign scenario’s
+
+Does anyone have it?
+Sounds like https://boardgamegeek.com/boardgame/397131/meadow-adventure-...
+There is a 'Meadow achivements' list in the files section, although I have not tried it myself.
+
+Meadow Achievments 
+Erik Lindqvist
+@WolfsongSwe
+Sounds like https://boardgamegeek.com/boardgame/397131/meadow-adventure-...
+Ha ha ja maar die heb ik nog niet
+@Bestefar
+There is a 'Meadow achivements' list in the files section, although I have not tried it myself.
+
+Meadow Achievments 
+Dankjewel ik ga het eens bekijken
+You can try this.
+Improving Solo Variants with a Win Condition (Inspired by Targi)
+
+Playing Downstream & Adventure Book together: So, I love my Downstream and while Adventure Book isn't the big great thing I hoped it would be, I still like it. But the biggest bummer is, that it isn't compatible with Downstream. So I thought how to include both in a game and the more I thought about it, the more I came to the idea, that the main issue were production reason and less of rule implementations.
+
+So I thought about the following adjustments:
+
+For all scenarios in the adventure book, you just also follow the setup for Downstream and add the fish goal token to the goal token pool before dealing them out according to the adventure book setup.
+
+If you are playing solo, when drawing a ? for the hermit, the hermit will also draw one of the solo cards from downstream and resolve it. Remove the cards from the game instead of putting them in the hermit stack.
+
+Scenario specific adjustments and thoughts:
+
+Bridges:
+Additional rules: Both starting cards have to be on different sides of the bridges.
+Problems: The only problem I can see is that there is no fish symbol on the bridge tokens. Since it still can be on the goals, I don't think, this is a big problem.
+
+Windmills:
+Problems: Basically the same as with bridges, the fish can't be found on the trail tokens. That could probably be fixed with some random algorithm, but here I also think, it isn't that big of a problem.
+
+Balloons:
+Problems: Here, the problem is, that the fish can't be on the inner ring of symbols and this seems to be unfixable without a redesign of the inner ring. But also, I don't think this is a rather small problem, even compared to the previous scenarios as the fish can still be in the variable goal tokens. (but I might be wrong here)
+
+Observation Tower:
+Additional Rules: You can't switch out the river trail tokens for a special path token.
+Problems: The biggest problem in the adventure book concerning compatibilitywise seems to be here, as the fish can't be on the horizon tokens and they play a rather big role. The fish can still be in the goal tiles as always. But I think you could still play this, with both expansions.
+
+Cave:
+Problems: There are no bat cards in the river cards, but I don't think that matters.
+
+Well, I haven't tested this a lot, but I think, you could combine them rather seamlessly. Let me know, what you think of these thoughts or if you even play both, I would love some feedback. I thought about making a good looking PDF of more defined rules to combine those two expansions for this great game.
+Here’s how I see it: Adventure Book is a generous collection of six separate expansions, each adding a unique twist to the base game.
+The same applies to Downstream - it’s just another expansion to the base game, so I’d play it on its own.
+Anything else would just overcomplicate each of these 7 "expansions".
+
+That said, I’d only consider extending the campaign by adding Downstream as my 7th "hike" :-)
+
+Race for the Meadow: I prefer games to end when they are over, rather than pull out the calculator. So, i usually prefer objectives to end the game, like a race to a certain amount of points. Has anyone tried to calculate points as you go to achieve a certain point threshold, and whoever reaches that amount first wins? So it would be like this:
+
+Rounds keep going by until some reaches 50 points, then as soon as everyone has had equal turns, it's over. Most points wins. It's somewhat Spendor like.
+
+I really like this game while playing but I always miss the games that don't have the tension of an objective. As opposed to - "It's over, now lets spend 5 minutes scoring". I hate that in most games. i'm probably in the minority.
+If so, I am in the minority with you. I love the themes, mechanics, and decision space of eurogames and it is one of my top two game genres. But making everything about victory points is this inexplicable, backward step fun-killer for me. As an example, needing x amount of stone and wood in order to complete building y is a thematic end goal instead of adding some artificial step of needing to convert wood and stone into points and calculating those points instead.
+
+Best way to shorten game at 4 players?: It seems there are two methods to shorten the game at 4 players. I'm wondering which is the best?
+
+1. Play 8 rounds but use three action tokens each round. Every player has the 1, 2, 3, 4 action tokens and not the ? (as specified in the rule book). But from these you use three each round.
+2. Play 6 rounds using the four action tokens each round (1, 2, 3, 4).
+
+Both house rules result in players having 24 actions throughout the game. The difference is how crowded the play area is in each round.
+Playing 8 rounds with 3 action tokens in each will allow players to all visit the card grid with every token (12 available spaces, 12 tokens played by the 4 players).
+Playing for 6 rounds using 4 action tokens will lead to a crowded card grid & players will likely need to use a campfire bonus action once each round (12 available spaces in the card grid, 16 tokens played by 4 players).
+
+Which do you prefer?
+Once we played the game in my gaming club with four players and that with two players who were new at the game. At the sixt round one of them asked to stop wich we did. It does get long. We stopped so there's the answer on the question. At the end, all found it a good game
+Although both options should shorten the game equally my preference would be 8 rounds with 3 actions each. I listed 3 reasons for this below.
+
+1.) This option maintains 12 total actions per round (like the 3 player game) which should allow for better options toward the end of each round.
+2.) Each player will have 2 turns as the first player (like the 3 player game) so there is not an advantage for the two players who will get to go first twice with the 6 round option.
+3.) The campfire board is already set up for 8 rounds with a refresh after 4 rounds. The flow of the board and the refresh in the middle remains unchanged.
+Thanks. All 3 of these points had crossed my mind and made me feel that 8 rounds of 3 would be the way to go. Thanks for your answer
+
+Solo Variant. More random card picking. Increased difficultly. Competes for campfire goals.: I've been using a tweaked Rover since I bought this game, and thought I'd finally post the details. See this thread for details of making Rover's card selection more random: Re: solo: too predictable?. Yes, it has taken me over 2 years to get around to write this! This works for the base game using components out of the box. Sorry, I don't have the expansion.
+
+
+Setup
+Setup as per normal Rover solo mode. Rover goes first each round and uses 5 randomly drawn path tokens (as per normal.)
+Optional: Add three campfire bonus tokens of an unused colour to the final three round tracker places ("2" on the 4th place, "3" on the 5th place, "4" on the 6th place.) Adding this makes Rover compete for the campfire goals. You can leave this out if it makes it too difficult.
+
+Play
+When Rover draws a numbered path token, place it in the first available slot of that colour, and take the corresponding card as normal.* This way the cards taken are more random. ie. if Rover's first path token is red 3, then place it in the first red slot (#1) and take the third card along.
+If no slots are available for that colour, continue going anti-clockwise** until you reach a free slot.
+
+When Rover draws a Wildcard token, block a slot as normal (if possible.)
+If Rover has one or more of its Campfire bonus tokens and there is a goal not yet taken, then place the lowest value token in the first available goal slot starting from the top position and going clockwise. Otherwise take one road token and give it to Rover. Note: do this even if all slots were already blocked.
+
+End of Round
+At the end of a round if the round marker moves to a slot with one of Rover's bonus tokens then give that to Rover. Rover can now use it to take Campfire goals as above.
+
+End of Game
+Rover scores points on cards as normal, plus 1 point per road token, plus any campfire goals obtained.
+
+If you want to increase the difficulty, try the following.
+Move Rover's bonus tokens forward one round (ie. Rover obtains them on the 3rd, 4th and 5th rounds.)
+Rover scores 2 points per road token.
+Alternatively, to make it a tad easier, just do the campfire goals for Rover and do not give the road tokens.
+
+*This differs from the standard Rover who tries to place the token in the corresponding numbered slot. ie. Red 3 in slot 3.
+**The slots are numbered anti-clockwise so this is an obvious way to go around.
+
+Solo mode: increased visibility of cards: Has anyone felt the need to increase the variability of cards for solo by removing the bottom row after each turn - except when removing all cards?
+
+Playing solo, I have sometimes found that 1 of the 3 goals has never emerged.
+
+Idea to reduce play from 5 hours: So, this is my favourite game. I want to be able to play it with 4 players and the Downstream expansion.
+But I tried it that way the other day and it took 5 hours or more.
+
+Are there some meta-game elements I can introduce to reduce the time?
+I really don't want it taking more than 2 hours, and even that is a bit high.
+Don't ask me to kick players out of my group - I am also one of the slower players, though not the slowest.
+
+4 player game including downstream
+= 4 players, 5 turn tokens per player, 8 rounds in the game
+= 40 turns for each player, or 40 times around the table.
+= it's unlikely but if each player took 2 minutes for their turn, that would be 5hrs 20 for the game.
+= some players definitely take longer than 2 minutes, but most are faster
+
+Here's an idea I have:
+* before the first player's turn the players all are required to plan and select which token they are going to play
+* they put it face down in front of them
+* yes it will be apparent who is playing the river token, but doesn't matter
+* if needs be, a 30 sec windup timer could be used for the last player, but I don't think it would be needed
+* that is the token that the player will need to use when play comes to them, they don't get to change
+* yes on their turn they can choose where to place that token, but they can't switch token. I think this will be far less consideration.
+
+Yes, this method means that players won't be able to use some perfect strategy, but really we're not working at that level.
+People start hating a game that is 2 hours in and not even half way.
+With this method, if the planning stage is around 3 minutes long, the game might be finished in 120 minutes, 2 hrs long.
+
+Do you think it would work?
+Quote:
+Yes, this method means that players won't be able to use some perfect strategy, but really we're not working at that level.
+You say you're not working on this level but you must all think you do because otherwise there is no need for 2 min turns. Long turn times are only for those that refuse to make a single wrong turn. The group needs to just relax ... unless your group likes it. But by this posy, you aren't a fan.
+
+But anyway... two tips
+
+Play 6 rounds instead of 8 eventhough you have 4 players. (Tom Vasel also suggested this.) And play that the round ends when everyone has a single token left with the expansion. That way the expansion doesn't add time to the game. Up to the player to pick which doesn't get played. (Rahdo spoke about this. )
+Please don't perpetuate this unpleasant mistaken stereotype.
+I play with a very wide range of different people, and it is an extreme minority of people who are slow because they are trying to analyse all possible options.
+Many people are slow because they are struggling to understand what is going on, have no plan, and don't remember which cards they have or what's on them.
+It is well established that people have different mental abilities and some of us have slower mental processing than others.
+I have seen gaming groups where insensitive gamers start chanting "hurry up" at slow people. Let me be the first to tell you that this does not make people relaxed and speedy. It makes them want to quit.
+
+I have already seen the suggestions to play with fewer rounds and fewer tokens.
+I hoped that my idea could let the game itself stay the same, while encouraging players to plan their turn in parallel, instead of the common behaviour of waiting until their turn before looking at their cards and the board.
+With many games it can be hard to plan too far ahead because so many things can change. With Meadow, there is a grid of cards. Once I take my turn, I know that only 3 of the currently visible cards are going to change. That means I can set up my goal for a couple of different options and be quite likely to still have at least one of them when I get my next turn. Obviously this doesn't work during the change-over between the North and South decks. Maybe try to encourage your friends to take that approach and not wait until it's their turn?
+
+Honestly I would not want them to have to pre-select their token, as you suggested. That seems a bit too punishing if their selection is completely gone when it is their turn.
+Yeah you might be right. I was thinking at least they would be able to use their token to take another card which might not be perfect but could be at least used to do the "two for one" trade.
+
+While I'm not the slowest in this game, I know in some other strategy games, each time play comes back to me, I need to look through all my cards again to try to remember any crumb of a plan. I guess in the case of Meadow, similar players will need to look through all their hand cards, their 10 tableaux piles, and the whole grid of 16 cards.
+
+Hmmm
+Let's take a different approach. What other games do you play with this same group, and how do things work out? Maybe there are some strategies from the way you play a different game that could be applied here.
+hmmm quite a few. I might have to work out which other strategy games are at the same level...
+Hello there,
+I/my group always play with card holder/racks - so we can always see what we have in our hands and saves on memory and ceaseless shuffling though what ever we are holding.
+Might help a bit.
+hmmm, I'm intrigued, but not sure how it would help memory?
+
+Is the 4 player THAT bad?: As stated in the titel: Is the game that bad with 4 players?
+
+I am asking because in almost all games it is still "recommended" when the game takes too long with 4 players, but here it is straight up "not recommended".
+
+I am really interested in buying it but... I either play it with 2 (my girlfriend) or in my gaming group (always at least 4).
+
+can you elaborate a little bit? Thanks!
+My wife and I love Meadow and Downstream at 2. We would not even consider playing at 4. The game would be crazy random and drag on way too long.
+so randomness is the issue, not necessaraly the lenght!?
+
+Why tho? Cause you don't get the cards you look for? Is the grid not big enough?
+I played the game solo, 2p, and 4p. 4p was very long, it's the main reason why I would not want to play again that way.
+I have played solo, at 3 and at 4 players. Yes, 4 is longer, but I enjoyed it. I believe it will go faster with players who are familiar with the game. My 3-player game with all of us being new went on FOREVER! We finally just stopped. But the 4 player, with 3 new and 1 experienced players, was long but smooth.
+I will say we missed the 'trading 2 cards for 1 symbol' rule in all my plays and that made it longer than it should have been. Next time I expect it to be faster with 4 experienced players and the rules correction.
+I had only ever played two-player until this past weekend when we played four-player. I found it plays very different, not just longer. It was harder to plan ahead because frequently someone else took your preferred card (even with 16 to choose from) or, more often, you couldn't get access to the card you wanted because all the vertical and horizontal slots filled up. There was a bit more competition for the campfire slots, too. It was not as relaxing at four as at two, for sure.
+I’ve played it four player lots of times. You have one less action tile at four player (you remove the ? one) so it’s doesn’t take too long. We are all experienced players.
+Ryan E.
+@ozradio
+I had only ever played two-player until this past weekend when we played four-player. I found it plays very different, not just longer. It was harder to plan ahead because frequently someone else took your preferred card (even with 16 to choose from) or, more often, you couldn't get access to the card you wanted because all the vertical and horizontal slots filled up. There was a bit more competition for the campfire slots, too. It was not as relaxing at four as at two, for sure.
+I feel this might be the reason. Cause this game is very sweet and calm and people like it because there is some peacefullnes to it. To not be able to do what you planed to do... could cause some disconnect to the theme.
+
+Because there are so many games which become very long with 4, and people still find it "working enough".
+I don't mind playing the game with 4 players, so, there are some people here, that would play it.^^
+T+his is highly subjective question. If you like Everdell at 4p or Wingspan at 4p you will find meadow fine aswell at 4p!
+They all have the same issue. If you dont like those at 4p you wont like this one at 4p either. Same for TM and Ark Nova, although those have higher complexity and therefor you might be fine with the longer play time however you might not for a "simpler" game. Comes down to your preferance ofc.
+There are other thoughts on this very topic from a previous thread I started for the same reason.
+Why is this not as good at 4 players?
+
+Another solo campfire variant: Use the campfire board for two players, with five goal tokens. Give Rover one set of bonus tokens.
+
+Whenever Rover takes a card with a symbol that matches an unmarked goal token, mark that token as owned by Rover, by placing a leftover token face down next to it. Do it also for the cards taken during setup. Rover's symbols are always considered visible.
+
+When Rover places a path token in a notch of the campfire board, see if he can place a bonus token, based on the marked symbols, and place his lowest valued bonus token accordingly. If there is more than one possible placement, choose one randomly.
+
+If Rover cannot place a bonus token, reveal a full row of cards from the decks in play (1 W, 2 S/N, 1 E) next to the main board. Mark any still unmarked corresponding symbols on the campfire board, then check again if Rover can place a bonus token. Discard all revealed cards to the bottom of their respective decks (do not add them to Rover's stack). Of course, you only need to do all this while there are unmarked symbols next to empty bonus spaces and Rover has bonus tokens available.
+
+Hard mode: After all bonus spaces are claimed, if you draw a "?" path token for Rover, discard it and draw another, until you draw a number.
+I came up with this variant because, while agreeing that the official solo mode is too easy, I disliked previous ideas of Rover randomly claiming bonus spaces via a die roll. I wanted something more in the spirit of a game with real players.
+Thanks
+
+Turning over the market more and be able to play more than one card at a time...: It's funny. My wife and I just played today. Our East was basically unusable and I commented on how that adds to the variability of the game. Remember, you can discard two cards to erase a second icon on a card. Also, fishing for a card can be useful if nothing else fits for you. I use it a couple of times a game.
+
+Shorter playing time?: Would it be possible to only play half the game (i.e. never introduce the N cards) and have a similar experience?
+Booch
+@Booch77
+Would it be possible to only play half the game (i.e. never introduce the N cards) and have a similar experience?
+Maybe. Though I would suggest playing 1 round with S cards and 1 round with N cards. There are some card types only in the N deck that you would be missing out on.
+Not really because the North deck is only deck with bird of prey. We do a house rule for 4 players and only play 6 rounds (switch decks after 3). We feel 8 rounds too long.
+How does that work out for you? Does it feel like you had enough time to do what you wanted?
+John Hines
+@ketchup61925
+Not really because the North deck is only deck with bird of prey. We do a house rule for 4 players and only play 6 rounds (switch decks after 3). We feel 8 rounds too long.
+How do you solve the first player problem? I was thinking about this too but 2 players would have quite the disadvantage then, which I guess is why they made it 8 rounds in the first place.
+Sebastian S.
+@Rotereber
+John Hines
+@ketchup61925
+Not really because the North deck is only deck with bird of prey. We do a house rule for 4 players and only play 6 rounds (switch decks after 3). We feel 8 rounds too long.
+How do you solve the first player problem? I was thinking about this too but 2 players would have quite the disadvantage then, which I guess is why they made it 8 rounds in the first place.
+You could do this:
+Rounds 1,2,3,4 the normal first 4 rounds in the usual clockwise order rotating who goes 1st.
+
+Then Reverse order (counter-clockwise) in Round 5 - Starting with original 1st round Player #3 (3,2,1,4)
+Then Back to Clockwise order in Round 6 - Starting with Original 1st Round player 4 (4,1,2,3)
+
+1st Round Player 1 starting Positions by round (1,4,3,2,3,2) = Total of 15
+2nd Round Player 1 starting Positions by round (2,1,4,3,2,3) = Total of 15
+3rd Round Player 1 starting Positions by round (3,2,1,4,1,4) = Total of 15
+4th Round Player 1 starting Positions by round (4,3,2,1,4,1) = Total of 15
+I have solved this problem with a simple tweak to the rules.
+It works at all player counts and you still play the full number of rounds.
+Whatever number of fence posts the game gives you for your player count, you take (so 4 fence posts at 4 players).
+
+But when taking turns, the round ends when everyone has a single fence post left.
+
+This solves the time issue by making it so you have a good choice every turn, and are not forced to use your final fence post.
+The board is less cluttered, so you feel stuck more rarely.
+And it removes the least fun part of the game, which is trying to find a decent card or action with your final fence post.
+That final turn of each round is the longest one anyway, as there are usually no good choices left for anyone.
+
+I will note, this also works with the new downstream expansion.
+
+I highly, highly recommend this tweak. It has solved every complaint I had with the game (which was mostly how long it took).
+Doc Jambo
+@DocJambo
+[q="Rotereber"][q="ketchup61925"]
+Then Reverse order (counter-clockwise) in Round 5 - Starting with original 1st round Player #3 (3,2,1,4)
+Then Back to Clockwise order in Round 6 - Starting with Original 1st Round player 4 (4,1,2,3)
+This is genius...
+I'm a bit late to this thread, but instead of playing a set number of rounds, you could try scoring as you go and playing until a player reaches X points. Once that happens, finish the round, play one final round, and then tally the scores. The player with the highest points wins.
+
+Improved Solo AI opponents 1 and 2: Ai number 1, Riviera:
+
+Follow the same rules as Rover, except when drawing an arrow tile: if you draw any tile except a wild tile, follow the placement rule of the first tile to choose a spot. Then, immediately draw a second tile and place it in the chosen spot. Remove the matching card.
+
+If you drew a Wild Tile for the second tile, instead put the first tile in the chosen spot and remove that card.
+
+This setting almost completely removes the selection bias from board locations.
+What is AI No. 2??
+AI 2 is going to follow a specific series of rules but I need to check compatibility with Downstream.
+Any chance you have checked it with the expension? How does it plays? Curious about that AI 2.
+I finally got ahold of downstream. I've been busy fussing with another boardgame, but catching up here is on the list.
+"Roger" uses the three markers for the AI as Focus markers and Cheat tokens, allowing him to bypass placement requirements and decide his move choices.
+
+It means some significant overhead, but also a less random, more directed opponent whose final score will pose a true threat.
+Deane Gainey
+@Silverbel
+"Roger" uses the three markers for the AI as Focus markers and Cheat tokens, allowing him to bypass placement requirements and decide his move choices.
+
+It means some significant overhead, but also a less random, more directed opponent whose final score will pose a true threat.
+Hi Deane,
+Sorry, I don't understand how to use Cheat tokens and the third marker to pick a card.
+Can you give more details pls?
+The instructions have not been added yet.
+Distractions. Sorry for the wait
+No, it’s me being impatient
+Sorry for misunderstanding!
+
+Shorter game variant: I kinda prefer this self-made variant when playing with higher player count or want a short(er) game of Meadow.
+
+Every round, a player will use 1 less path tokens than the number specified by the setup rules. This mean a player will have 1 unused path token at the end of a round. Everything else remain the same.
+
+This variant also work with every player count including solo mode (lower scoring threshold for solo mode by 10 or 12 points), but the central board might be too spacey at lower player count. This variant maintain 24 turns for each player in all player count.
+
+Enjoy!
+Hey! I stumbled upon this as well when trying to fix the game length.
+
+I can confirm, it works great!
+Dear Sir. You managed to fix our 4-player Meadow sessions. Thank you!
+
+Envelopes: Maybe I’m missing something but what is the naming convention for the envelopes? My game came with base cards A, B, C, D & S and envelopes T, U, W, X & Y. I see there’s a P envelope in Poland too. Will there be others between D & the envelopes??
+Hi,
+
+There are 6 R cards from expansion Cards & Sleeves too.
+Here, you can find all existing cards.
+P is the promo envelope that came with pre-orders. Not just in Poland.
+______
+@not_not_nothing
+P is the promo envelope that came with pre-orders. Not just in Poland.
+Not in France it didn't...
+I got one in Canada.
+@Random_bloke
+______
+@not_not_nothing
+P is the promo envelope that came with pre-orders. Not just in Poland.
+Not in France it didn't...
+Yep
+______
+@not_not_nothing
+P is the promo envelope that came with pre-orders. Not just in Poland.
+The "P" envelope was originally only intended as a promo to be supplied with pre-orders from bricks-and-mortar stores. It was meant to be released as part of Asmodee's "Hobby Next" program to support LGSs, and the impression I got was that - at least initially - it was only a North American thing. However, there were almost immediately requests to make it available elsewhere, but so far, any attempts appear to be inconsistent...
+Iain Gibson
+@E_Lair
+______
+@not_not_nothing
+P is the promo envelope that came with pre-orders. Not just in Poland.
+The "P" envelope was originally only intended as a promo to be supplied with pre-orders from bricks-and-mortar stores. It was meant to be released as part of Asmodee's "Hobby Next" program to support LGSs, and the impression I got was that - at least initially - it was only a North American thing. However, there were almost immediately requests to make it available elsewhere, but so far, any attempts appear to be inconsistent...
+Yes, distributing promos is a challenge for us because it is on local distributors that have different possibilities. I can confirm that Envelope P will be soon available in BGG store so everybody will be able to get it
+Matt Philips
+@Philbeert
+Will there be others between D & the envelopes??
+Yes! (It's all I can say now )
+Awesome! Thanks, Joanna!
+Joanna Piekarska
+@Asia_Rebel
+Iain Gibson
+@E_Lair
+______
+@not_not_nothing
+P is the promo envelope that came with pre-orders. Not just in Poland.
+The "P" envelope was originally only intended as a promo to be supplied with pre-orders from bricks-and-mortar stores. It was meant to be released as part of Asmodee's "Hobby Next" program to support LGSs, and the impression I got was that - at least initially - it was only a North American thing. However, there were almost immediately requests to make it available elsewhere, but so far, any attempts appear to be inconsistent...
+Yes, distributing promos is a challenge for us because it is on local distributors that have different possibilities. I can confirm that Envelope P will be soon available in BGG store so everybody will be able to get it
+Do you know when it will be available in BGG Store ?
+Cédric
+@dune2009
+Joanna Piekarska
+@Asia_Rebel
+Iain Gibson
+@E_Lair
+______
+@not_not_nothing
+P is the promo envelope that came with pre-orders. Not just in Poland.
+The "P" envelope was originally only intended as a promo to be supplied with pre-orders from bricks-and-mortar stores. It was meant to be released as part of Asmodee's "Hobby Next" program to support LGSs, and the impression I got was that - at least initially - it was only a North American thing. However, there were almost immediately requests to make it available elsewhere, but so far, any attempts appear to be inconsistent...
+Yes, distributing promos is a challenge for us because it is on local distributors that have different possibilities. I can confirm that Envelope P will be soon available in BGG store so everybody will be able to get it
+Do you know when it will be available in BGG Store ?
+Package is on the way, so probably in less then a month!
+
+Solo variant - different numbers on solo play game token: Solo variant uses solo play game token to simulate the behavior of a dummy player called Rover. The problem is – the distribution of cards Rover is taking during the game is not even.
+
+Below is the distribution you can expect using original solo game token configuration. Imagine it represents the game cards 4x4 matrix. Let’s assume the number before the colon defines how many path tokens in the pile lead Rover directly to pick a particular card, and the number after the colon defines how many path tokens in the pile may lead Rover to pick a card indirectly if the token spot is already filled.
+
+2:0 0:1 0:1 1:1
+0:1 2:1 1:1 0:0
+0:1 1:1 2:0 0:1
+1:1 0:0 0:1 2:1
+
+As you can see some cards are never picked directly. Of course, it doesn’t mean the cards with 0:0 value assigned will never be picked by Rover, because it is possible that a few consecutive spots clockwise are filled at some point of the game, but still this distribution seems a bit uneven.
+
+I wrote an algorithm to try to find a better configuration for a solo play game token. I assumed no card should be covered as picked by Rover directly more than once. Since there is no chance every card is covered as picked directly by Rover (because there are 16 cards and only 12 tokens), I assumed the best solution should assign two indirect picks to each of those cards. Additionally, no card picked directly should be marked with more than one indirect pick (there would be still 4 such cards).
+
+There are several solutions that meet those criteria and I’ve chosen one I present below along with its final distribution. Starting with the number printed in the top left corner on the solo play game token and going counterclockwise, the numbers should be as follows:
+
+[3,1,4,2] [2,4,3,1] [4,2,3,1]
+
+0:2 1:1 1:0 1:1
+1:0 1:1 1:0 0:2
+1:0 0:2 1:0 1:0
+1:0 1:1 0:2 1:0
+
+Wingspun: When a player plays a bird card they must identify the bird or look it up. For every round after the the bird is played left uncovered the player gets an egg token on the card. If that player mentions any other board game that has birds, they lose all egg tokens. Players compete for these tokens only for the lulz as the tokens do not count toward the game score.
+
+Small adjustment to the Solo game: Played my first solo game of Meadow today with a small adjustment that i thought of after watching a few solo playthrough videos.
+
+Update: As i just saw it is similiar to the variant from Gemixin (https://boardgamegeek.com/thread/2665463/solo-campfire-varia...) but I use the single player campfire board and a slightly diffrent use of the D6 (i actually use a D with two 1s, two 2s and two 3s but that's a detail).
+
+Here is how it works:
+Starting with round 4 when ever the AI draws a ?-tile it has a chance to place the lowest remaining bonus point marker on a bonus spot. On a 1 or 2 on the first spot, 3 or 4 on the second, on a 5 or 6 on the third, going clockwise starting with the one right from the 12. If that spot is taken by the player, nothing happens. For a bit more difficulty you can also start with this in round 3.
+
+This simulates imho a bit better the race to play bonus point markers a soon as possible for the human player.
+
+Happy to hear some thoughts.
+I have only played one solo game so far but I will be giving your idea a try. Thanks for the suggestion!
+Home rule:
+When Automa pick cards, create 5 different columns and stack cards from left to right. When Automa draws a ?-tile, check if any pair of symbols in the visible cards is in the campfire. If so, AI take bonus points (whoever is first takes 4 points, second 3 and third 2).
+If it’s not hard enough, create from 6 to 10 columns with AI Cards.
+Nice idea. Will give this a try.
+
+Shorter 4 player game - 6 Rounds: As much as we love this game, I agree that it seems to go long with 4 players over 8 rounds. This was also Tom Vasel's only negative in his recent review.
+
+In this variant version, you still use the 4 player board, but start with the Hiker meeple on Stone # 2, and make it clear to everyone that the game will end after the 7th stone. This way player 4 will get to pick 1st on the round starting with the North Deck, after the board has been cleared, which I also think helps to maintain strategic balance.
+
+Because each player will only have 24 turns you won't have scores as high as in the other games, but this is understandable.
+Is it that much longer? With 3 players each player has 5 actions each round for a total of 5 x 8 = 40. In a four player game each player only gets 4 actions. 4 x 8 = 32. In total that would be 40 x 3 = 120 and 32 x 4 = 128. Doesn't feel like a lot more actions, but could be a lot more time.
+Also, I'm not figuring in how tactical this game is. That always adds more time with more players.
+Have you tried your variant? Thinking about playing with 4 and trying it out.
+Thanks.
+John Hansel
+@Loophus
+Is it that much longer? With 3 players each player has 5 actions each round for a total of 5 x 8 = 40. In a four player game each player only gets 4 actions. 4 x 8 = 32. In total that would be 40 x 3 = 120 and 32 x 4 = 128. Doesn't feel like a lot more actions, but could be a lot more time.
+Also, I'm not figuring in how tactical this game is. That always adds more time with more players.
+Have you tried your variant? Thinking about playing with 4 and trying it out.
+Thanks.
+Not quite. Only a 4-player game has 8 rounds. All games with less than 4 players are played over 6 rounds.
+Because you don't use the "?" token in a 4-player game, there's very little difference from an individual perspective:
+Each player in a 2 & 3-player game has 5 x 6 = 30 actions/turns;
+Each player in 4-player game has 4 x 8 = 32 actions/turns.
+At a guess, I would say this is why the number of rounds is higher in 4-player: it's so players play roughly the same number of actions regardless of player count, and scores are roughly comparable.
+
+However: the total number of actions/turns per game is going to increase roughly in proportion to the player count, and I think that's why some people are finding 4-player games a little too long:
+2-player = 2 x 30 = 60 turns total;
+3-player = 3 x 30 = 90 turns total;
+4-player = 4 x 32 = 128 turns total
+(and a 4-player game over 6 rounds = 4 x 24 = 96 turns total)
+
+I must admit this is something I hadn't thought about before, and it's worth taking into account. I was planning to introduce "Meadow" to three others who are, in the main, board-gaming newbies, and I'm starting to think that going straight into a full 4-player game might be too much for them (especially as they're likely to spend a lot of time admiring the cards and looking them up in the index...)
+Of course; playing time will come down with experience, but - at least for that group - I think the reduced 6-turn variant might be a better introduction...
+I feel there should be a bonus for the third and fourth players since they only go first one time in a 6 round 4P game. I was thinking something along the lines of placing a random card from the top of the E deck along with the start card as part of setup.
+If playing with 6 rounds (which I think is a great idea), Third and fourth player could get an extra card during setup as a bonus?
+
+(Fourth player has a small advantage already, drawing cards first after the N-deck is introduced in the game after 3 rounds..)
+
+2p, higher market churn variant: When playing at 2p, we've noticed that sometimes cards stagnate on the market board and it can feel difficult to get new cards to market. We've been house-ruling this variant to help slightly increase the number of new cards coming into the market at 2 players.
+
+Set up your market board as usual and take one of the path tokens in a color that's not being used by either player. Place this path token next to the first row, but not in the row selection notch; we'll call this the 'removal marker'
+
+At the end of each round, after both players have used all their path markers, remove all the cards in the row indicated by the removal marker, returning the cards to the bottom of their respective decks. Replace the cards with new ones from the top of the appropriate decks. Then, move the removal marker down a row and start your next round. Skip this process at the end of round 3, as you'll be clearing out the whole board for the switch from South to North.
+
+This is what your game should look like:
+- End of round 1: refresh the 1st row, move removal marker down to row 2
+- End of round 2: refresh the 2nd row, move removal marker down to row 3
+- End of round 3: refresh board with North cards, leave the removal marker on row 3.
+- End of round 4: refresh the 3rd row, move the removal marker down to row 4
+- End of round 5: refresh the 4th row, take the removal marker out of the game
+Great rule, and to make it more random,you could use the solo mode chits for this.Put the round chits of the color which you don't use in the bottom notch on the little board and 1 in one notch on one of the sides.Shuffle all player markers of the colors you don't use and at the end of the round draw one and remove the entire row or column,according to the number you drew..For the question marks:leave them out,or take turns drawing and who ever draws the question mark, decides which row or column of that color will be discarded.
+Love this variant. It's a needed variant. We also use similar variant on Everdell to remove the cards in front of us.
+We only got to play once at 2p, and immedietly felt the market needed more variety. So defintely will be using this next time we play.
+Have played 3 times with 3 players so far. Definitely feel the need to refresh the card selection in rounds 3-6. Each of us has stared at card selection and found the we had NONE of the required tokens to build, and those tokens aren't on the cards to collect either. That is frustrating and makes the game less appealing for replay.
+How about a variation on the draw three, keep one camp action.
+
+When you play the action, you would select one row to wipe. Replace the cards. Draw one of the newly replaced cards. Do not play a card
+
+It's strictly better than the normal version, but maybe that's ok
+Great thread, thanks everyone! We had the same experience at 2p. Appreciate all the ideas and suggesitons. We will definitely be trying these variants out.
+Lars M. Nielsen
+@kallisti_dk
+How about a variation on the draw three, keep one camp action.
+
+When you play the action, you would select one row to wipe. Replace the cards. Draw one of the newly replaced cards. Do not play a card
+
+It's strictly better than the normal version, but maybe that's ok
+Yeah, we were wishing all through our games that there was a special action to wipe a row or column. Columns more than rows. We kept having the same card type come out that no one needed in row 1 and 4, and it would get us both bogged down. For instance, in our last game, we had 4 houses in the 1st column, and no one needed or could play another house. I would have loved to have been able to wipe that column. We both could have played landscape and discovery cards, but there weren't any, only houses. Anyone else experience anything like this?
+I wish it wasnt but board refresh/cyling is a real problem with this game (at all player counts, but especially at 2).
+
+I HATE house ruling games and have done it maye 1-2 times in 18 years of boardgaming but I was considering the exact same house rule haha.
+
+I hope the expansion fixes it
+irianamistifi
+@irianamistifi
+When playing at 2p, we've noticed that sometimes cards stagnate on the market board and it can feel difficult to get new cards to market. We've been house-ruling this variant to help slightly increase the number of new cards coming into the market at 2 players.
+
+Set up your market board as usual and take one of the path tokens in a color that's not being used by either player. Place this path token next to the first row, but not in the row selection notch; we'll call this the 'removal marker'
+
+At the end of each round, after both players have used all their path markers, remove all the cards in the row indicated by the removal marker, returning the cards to the bottom of their respective decks. Replace the cards with new ones from the top of the appropriate decks. Then, move the removal marker down a row and start your next round. Skip this process at the end of round 3, as you'll be clearing out the whole board for the switch from South to North.
+
+This is what your game should look like:
+- End of round 1: refresh the 1st row, move removal marker down to row 2
+- End of round 2: refresh the 2nd row, move removal marker down to row 3
+- End of round 3: refresh board with North cards, leave the removal marker on row 3.
+- End of round 4: refresh the 3rd row, move the removal marker down to row 4
+- End of round 5: refresh the 4th row, take the removal marker out of the game
+We just played two player with this variant. It made the game much more dynamic and fun. We will be playing this way from now on. Thanks @irianamistifi for the tip! Should be part of the rulebook. Highly recommended.
+Yup, my wife and I played with this house rule for the first time today, and I can't see myself playing without it from now on. Excellent idea,
+irianamistifi
+@irianamistifi
+
+Although we tweaked it slightly because we prefer less thinkiness and a little more randomness:
+We shuffled the 4 fence posts of the third color face down and thus randomly determined one row to be wiped after rounds 1, 2, 4 and 5.
+Very good variant, thanks!
+When we played Meadow first time we didn't get the rules correctly and weren't replenishing cards on board after they get taking. Instead we were removing remaining cards after each round and populating tableau again.
+
+Lately we realized that we are playing wrong and tried correct rules, but we found our first way more exciting since it required more turn planing (how to use all your tokens in this round in most efficient way) and we were getting more variety.
+This is exactly the issue we just had after our first play, was trying to think of a good way to do it, this might be it!
+
+Solo Campfire Variant: Please try out my custom solo variant:
+
+https://boardgamegeek.com/filepage/222948/solo-campfire-vari...
+
+I wanted to make the campfire goals more competitive and increase the overall difficulty.
+
+Any thoughts or feedback welcome.
+Really looking forward to this one when I buy the game.
+Cool thanks I like to test it.
+I also find the solo version of the base game too easy.
+
+Would it be ok if I translated it into German and uploaded it?
+Sabrina
+@Abby312
+Cool thanks I like to test it.
+I also find the solo version of the base game too easy.
+
+Would it be ok if I translated it into German and uploaded it?
+Sorry for delay - only just seen this. Absolutely
+This variant works great makes for a much more competitive solo game.
+Thank you for this variant.
+1 question should we start also with closing 2 spaces around the campfire or not? As in the picture I see that all spaces are open around the campfire...
+Tx
+Wesley Lala
+@Wesley3007
+Thank you for this variant.
+1 question should we start also with closing 2 spaces around the campfire or not? As in the picture I see that all spaces are open around the campfire...
+Tx
+Yes definitely still block 2 spaces. That was an error in the screenshot. I will fix it and upload a revised version. Thanks for spotting this.
+Thank you for this variant!
+Thanks! After two games in which I crushed the bot, I came here specifically to find a viable variant to increase the bot's scoring potential (to make win/lose more of a challenge so solo wouldn't be actually "beat your score"). Your variant seems elegant, simple to implement/manage, and true to gameplay. I can't wait to try it!
+

@@ -1,0 +1,48 @@
+SUJETO1,RELACION,SUJETO2
+Meadow,NOMBRE_ALTERNATIVO,Łąka
+Meadow,NOMBRE_ALTERNATIVO,Livada
+Meadow,NOMBRE_ALTERNATIVO,Meadow Im Reich der Natur
+Meadow,NOMBRE_ALTERNATIVO,Na louce
+Meadow,NOMBRE_ALTERNATIVO,Pradera
+Meadow,NOMBRE_ALTERNATIVO,Zöldellő Mezők
+Meadow,NOMBRE_ALTERNATIVO,Левада
+Meadow,NOMBRE_ALTERNATIVO,Поляна
+Meadow,NOMBRE_ALTERNATIVO,メドウ
+Meadow,NOMBRE_ALTERNATIVO,芳野寻踪
+Meadow,NOMBRE_ALTERNATIVO,메도우
+Meadow,ANIO_RELEASE,2021
+Meadow,DISEÑADOR,Klemens Kalicki
+Meadow,ILUSTRADOR,Karolina Kijak
+Meadow,ILUSTRADOR,Katarzyna Fiebiger
+Karolina Kijak,RELACION_INTERNA,Katarzyna Fiebiger
+Meadow,EDITORIAL,Rebel Studio
+Meadow,EDITORIAL,ADC Blackfire Entertainment
+Meadow,EDITORIAL,Arclight Games
+Meadow,EDITORIAL,Galápagos Jogos
+Meadow,EDITORIAL,Games4you
+Meadow,EDITORIAL,Gém Klub Kft.
+Meadow,EDITORIAL,Hobby Game Mall
+Meadow,EDITORIAL,Hobby World
+Meadow,EDITORIAL,Rebel Sp. z o.o.
+Meadow,EDITORIAL,Ігромаг
+Meadow,DESARROLLADOR,Klemens Kalicki
+Meadow,DISEÑADOR GRAFICO,Katarzyna Fiebiger
+Meadow,EDITOR  ,Bryan Gerding
+Meadow,EDITOR  ,Nordy
+Bryan Gerding,RELACION_INTERNA,Nordy
+Meadow,ESCRITOR,Agnieszka Możejko
+Meadow,CATEGORIA,Animals
+Meadow,CATEGORIA,Card Game
+Meadow,CATEGORIA,Environmental
+Meadow,MECANISMO,Hand Management
+Meadow,MECANISMO,Layering
+Meadow,MECANISMO,Open Drafting
+Meadow,MECANISMO,Set Collection
+Meadow,MECANISMO,Solo / Solitaire Game
+Meadow,MECANISMO,"Worker Placement, Different Worker Types"
+Meadow,FAMILIA,Digital Implementations: Tabletopia
+Meadow,FAMILIA,Game: Meadow (Rebel Studio)
+Meadow,FAMILIA,Mechanism: Tableau Building
+Meadow,FAMILIA,Theme: Ecology
+Meadow,FAMILIA,Theme: Nature
+Meadow,FAMILIA,Theme: Trees and Forests
